@@ -7,7 +7,14 @@
 <p align="center">
 🎓 Universidade Federal Rural da Amazônia, Capitão-Poço-PA <br>
 💻 Licenciatura em Computação <br>
-🚀 Interessado em Engenharia de Software e Desenvolvimento de Sistemas  
+🚀 Interessado em Engenharia de Software e Desenvolvimento de Sistemas  <br>
+<a href="mailto:kauezuzzaw@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+
+<a href="https://www.linkedin.com/in/kaue-zuzza-8b58a03b6">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
 </p>
 
 ---
@@ -46,20 +53,8 @@
 
 ### 📌 Projetos
 
-🚀 FormaTec  
+🚀 FormaTec (Em andamento - TCC)
 🏫 Sistema de Gestão Escolar  
 📚 Estudos em Engenharia de Software
 
 ---
-
-# 📫 Contato
-
-<a href="mailto:kauezuzzaw@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-</a>
-
-<a href="https://www.linkedin.com/in/kaue-zuzza-8b58a03b6">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
-
-</p>
