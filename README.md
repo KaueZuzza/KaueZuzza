@@ -29,8 +29,6 @@
 
 ---
 
-### 📊 Estatísticas
-
 <p align="center">
 
 <img height="170em" src="https://github-readme-stats.vercel.app/api?username=KaueZuzza&show_icons=true&theme=tokyonight"/>
@@ -41,7 +39,7 @@
 
 ---
 
-### 🔥 Contribuições
+### Contribuições
 
 <p align="center">
 
@@ -53,8 +51,8 @@
 
 ### 📌 Projetos
 
-🚀 FormaTec (Em andamento - TCC)
-🏫 Sistema de Gestão Escolar  
-📚 Estudos em Engenharia de Software
+ - FormaTec (Em andamento - TCC)
+ - Sistema de Gestão Escolar  
+ - Estudos em Engenharia de Software
 
 ---
