@@ -1,22 +1,22 @@
-<h1 align="center">Olá 👋 eu sou o Kauê</h1>
+<h1 align="center">Opa!, eu sou o Kauê Zuzza</h1>
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=28&center=true&vCenter=true&width=600&lines=Estudante+de+Computação;Desenvolvedor+de+Software;Criador+do+FormaTec"/>
 </p>
 
 <p align="center">
-🎓 Universidade Federal  
-💻 Engenharia de Software  
-🚀 Criador do projeto FormaTec
+🎓 Universidade Federal Rural da Amazônia, Capitão-Poço-PA
+💻 Licenciatura em Computação
+🚀 Interessado em Engenharia de Software e Desenvolvimento de Sistemas  
 </p>
 
 ---
 
-### 🚀 Tecnologias
+### 🚀 Tecnologias que eu utilizo:
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=java,js,html,css,mysql,git,github,python"/>
+<img src="https://skillicons.dev/icons?i=java,js,html,css,mysql,PostGreSQL,git,Angular,Docker"/>
 
 </p>
 
@@ -51,6 +51,3 @@
 📚 Estudos em Engenharia de Software
 
 ---
-
-![Snake animation](https://github.com/KaueZuzza/KaueZuzza/blob/output/github-contribution-grid-snake.svg)
-
