@@ -8,6 +8,7 @@
 🎓 Universidade Federal Rural da Amazônia, Capitão-Poço-PA <br>
 💻 Licenciatura em Computação <br>
 🚀 Interessado em Engenharia de Software e Desenvolvimento de Sistemas  <br>
+ <br>
 <a href="mailto:kauezuzzaw@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
