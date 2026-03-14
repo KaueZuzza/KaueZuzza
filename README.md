@@ -5,8 +5,8 @@
 </p>
 
 <p align="center">
-🎓 Universidade Federal Rural da Amazônia, Capitão-Poço-PA
-💻 Licenciatura em Computação
+🎓 Universidade Federal Rural da Amazônia, Capitão-Poço-PA <br>
+💻 Licenciatura em Computação <br>
 🚀 Interessado em Engenharia de Software e Desenvolvimento de Sistemas  
 </p>
 
