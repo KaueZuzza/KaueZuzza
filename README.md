@@ -1,31 +1,110 @@
-# Opa! Eu sou o Kauê Zuzza.
-- 21 anos.
+<h1 align="center">Olá 👋, eu sou o Kauê</h1>
 
-- Graduando na Universidade Federal Rural da Amazônia - UFRA, Capitão-Poço
-- Estudante de Licenciatura em Computação
-- Interessado em Engenharia de Software e Desenvolvimento Web
-- Criador do projeto FormaTec (Em Andamento)
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=30&center=true&vCenter=true&width=600&lines=Olá+eu+sou+o+Kauê;Estudante+de+Computação;Desenvolvedor+de+Software;Criador+do+FormaTec"/>
+</p>
 
-## 🚀 Projetos em Destaque
+<p align="center">
+🎓 Estudante de Computação <br>
+💻 Interessado em Engenharia de Software <br>
+🚀 Criador do projeto FormaTec
+</p>
 
-🔹 FormaTec 1.0  
-Plataforma de capacitação profissional conectando pessoas sem experiência ao mercado de trabalho.
+---
 
-🔹 Sistema de Gestão Escolar  
-Projeto focado na organização administrativa e pedagógica de escolas.
+# 🚀 Tecnologias
 
-🔹 FormaTec 2.0  
-Plataforma Web de gestão institucional e capacitação em tecnologia conectando Alunos, Professores e Direção sem experiência.
+<p align="center">
 
-## 🛠 Tecnologias
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3"/>
+<img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql"/>
 
-- Java
+</p>
+
+---
+
+# 📊 Estatísticas do GitHub
+
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=KaueZuzza&show_icons=true&theme=tokyonight"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaueZuzza&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🔥 Gráfico de Contribuições
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=KaueZuzza&theme=tokyo-night"/>
+
+</p>
+
+---
+
+# 🚀 Projetos em Destaque
+
+## 🎓 FormaTec
+
+Plataforma de capacitação profissional que conecta pessoas sem experiência ao mercado de trabalho.
+
+Tecnologias:
 - JavaScript
 - HTML
 - CSS
-- MySQL / Postgresql
+- Banco de Dados
 
-## 📫 Contato
+---
 
-Email: kauezuzzaw@gmail.com 
-LinkedIn: (Em andamento)
+## 🏫 Sistema de Gestão Escolar
+
+Sistema para gerenciamento administrativo de escolas.
+
+Funcionalidades:
+
+- Cadastro de alunos
+- Cadastro de professores
+- Organização de turmas
+- Controle acadêmico
+
+---
+
+## 📚 Estudos em Engenharia de Software
+
+Conteúdo baseado em autores clássicos como:
+
+- Pressman
+- Sommerville
+
+Inclui:
+
+- Engenharia de requisitos
+- Processos de software
+- Modelagem
+
+---
+
+# 🎯 Objetivos
+
+Atualmente focado em:
+
+• Engenharia de Software  
+• Desenvolvimento de Sistemas  
+• Projetos acadêmicos inovadores  
+• Soluções tecnológicas para educação
+
+---
+
+# 📫 Contato
+
+📧 Email: seuemail@email.com  
+💼 LinkedIn: seu linkedin
+
+
+![Snake animation](https://github.com/KaueZuzza/KaueZuzza/blob/output/github-contribution-grid-snake.svg)
