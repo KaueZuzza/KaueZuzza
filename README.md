@@ -1,7 +1,7 @@
 <h1 align="center">Opa!, eu sou o Kauê Zuzza</h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=28&center=true&vCenter=true&width=600&lines=Estudante+de+Computação;Desenvolvedor+de+Software;Criador+do+FormaTec"/>
+<img src="https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=28&center=true&vCenter=true&width=600&lines=Estudante+de+Computação;Desenvolvedor+de+Software;Criador+do+FormaTec+(Em+andamendo)"/>
 </p>
 
 <p align="center">
