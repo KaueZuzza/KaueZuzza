@@ -53,3 +53,4 @@
 ---
 
 ![Snake animation](https://github.com/KaueZuzza/KaueZuzza/blob/output/github-contribution-grid-snake.svg)
+
