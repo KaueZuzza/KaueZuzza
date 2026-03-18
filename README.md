@@ -24,7 +24,7 @@
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=java,spring,js,html,css,mysql,postgresql,j2ee,docker"/>
+<img src="https://skillicons.dev/icons?i=java,spring,js,html,css,mysql,postgresql,docker"/>
 
 </p>
 
