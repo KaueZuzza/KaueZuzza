@@ -26,7 +26,7 @@
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=java,spring,js,html,css,mysql,postgresql,docker"/>
+<img src="https://skillicons.dev/icons?i=java,spring,js,vue,html,css,mysql,postgresql,docker,aws,git,arduino,postman,figma"/>
 
 </p>
 
@@ -34,9 +34,9 @@
 
 <p align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=KaueZuzza&show_icons=true&theme=tokyonight"/>
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaueZuzza&layout=compact&theme=tokyonight"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=KaueZuzza&show_icons=true&theme=dark&hide_border=true"/>
+<img height="180em" src="https://nirzak-streak-stats.vercel.app/?user=KaueZuzza&theme=dark&hide_border=true"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaueZuzza&layout=compact&theme=dark&hide_border=true"/>
 
 </p>
 
