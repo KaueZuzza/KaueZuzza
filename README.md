@@ -1,3 +1,5 @@
+<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=KaueZuzza.KaueZuzza&left_color=grey&right_color=darkblue&left_text=Profile+Views"  />
+
 <h1 align="center">Opa!, eu sou o Kauê Zuzza</h1>
 
 <p align="center">
@@ -49,7 +51,8 @@
 </p>
 
 ---
-
+<img src="https://raw.githubusercontent.com/KaueZuzza/KaueZuzza/output/snake.svg" alt="Snake animation" />
+---
 ### 📌 Projetos
 
  - FormaTec (Em andamento - TCC)
